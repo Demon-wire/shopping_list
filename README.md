@@ -1,1 +1,2 @@
-# This programm is not finish when want you can add a delete button and send it to me
+# This programm is not finish if any one want to finish it you can have the code
+
